@@ -1,8 +1,9 @@
-<img src="https://media.giphy.com/media/XkA3s0gJheby79xn06/giphy.gif" 
+<img src="https://avatars.githubusercontent.com/u/18315530?s=400&v=4" 
      width="50%" 
      height="auto" 
      style="display: block; margin: 0 auto;" 
-     alt="Tech Animation"/>
+     alt="GitHub Loading"/>
+
 
 
 <h1 align="left"> Hey There👋 </h1>
