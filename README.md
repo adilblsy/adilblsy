@@ -1,8 +1,8 @@
-<img src="https://cdn.dribbble.com/users/1355613/screenshots/14160656/media/2d2e0c3308b1b3b285b3e940fd68e8a7.gif" 
+<img src="https://avatars.githubusercontent.com/u/18315530?s=400&v=4" 
      width="50%" 
      height="auto" 
      style="display: block; margin: 0 auto;" 
-     alt="Creative UI/UX Design Animation"/>
+     alt="GitHub Octocat"/>
 
 <h1 align="left"> Hey There👋 </h1>
 
@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">🎨 Graphic Design is in My Blood
-💻 Building with HTML, CSS, and JavaScript
-🌱 Learning Full Stack Web Development
-✨ Crafting innovative and creative projects
-💬 Ask me about Design, Web Dev, or Anything Else!
+<p align="left">🎨 Graphic Design is in My Blood<br>
+💻 Building with HTML, CSS, and JavaScript<br>
+🌱 Learning Full Stack Web Development<br>
+✨ Crafting innovative and creative projects<br>
+💬 Ask me about Design, Web Dev, or Anything Else!<br>
 
 ###
 
