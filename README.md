@@ -1,8 +1,8 @@
-<img src="https://cdn.dribbble.com/users/224109/screenshots/14244812/media/85a6d5b6c850edce9b6faab8b263c32f.gif" 
+<img src="https://media.giphy.com/media/XkA3s0gJheby79xn06/giphy.gif" 
      width="50%" 
      height="auto" 
      style="display: block; margin: 0 auto;" 
-     alt="UI/UX Design Animation"/>
+     alt="Tech Animation"/>
 
 
 <h1 align="left"> Hey There👋 </h1>
