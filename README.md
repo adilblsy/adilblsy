@@ -1,8 +1,9 @@
-<img src="https://avatars.githubusercontent.com/u/18315530?s=400&v=4" 
+<img src="https://cdn.dribbble.com/users/224109/screenshots/14244812/media/85a6d5b6c850edce9b6faab8b263c32f.gif" 
      width="50%" 
      height="auto" 
      style="display: block; margin: 0 auto;" 
-     alt="GitHub Octocat"/>
+     alt="UI/UX Design Animation"/>
+
 
 <h1 align="left"> Hey There👋 </h1>
 
