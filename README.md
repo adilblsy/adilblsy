@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">"My name is Muhammed Adhil P P, a passionate tech enthusiast currently pursuing a BTech degree in Computer Science."</p>
+<p align="left">"Hi, I'm Muhammed Adhil P P<br>
+A passionate tech enthusiast, currently pursuing a BTech in Computer Science. I’m deeply interested in technology, programming, and design, always exploring new ways to innovate and solve problems."</p>
 
 ###
 
